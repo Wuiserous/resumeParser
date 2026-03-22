@@ -1,8 +1,8 @@
 [theme]
-primaryColor = "#6C63FF"
-backgroundColor = "#0E1117"
-secondaryBackgroundColor = "#262730"
-textColor = "#FAFAFA"
+primaryColor = "#2563EB"                # Professional blue (subtle, not flashy)
+backgroundColor = "#FFFFFF"             # Pure white main background
+secondaryBackgroundColor = "#F5F7FA"    # Light grey panels/cards
+textColor = "#111827"                   # Near-black for readability
 font = "sans serif"
 
 [server]
